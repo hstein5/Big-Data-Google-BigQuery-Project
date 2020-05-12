@@ -7,7 +7,11 @@ to perform queries in order to retrieve and modify useful information from a dat
 cover the following steps in detail:
 
 ● Creating a database
+
 ● Adding tables to the database
+
 ● Loading data into a table
+
 ● Performing queries on a dataset
+
 ● Connecting to BigQuery with outside tools such as Python
